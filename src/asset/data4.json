@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Chiến khu Hoà - Ninh - Thanh còn có tên là gì?",
+    "selection": [
+      "Trần Hưng Đạo",
+      "Hoàng Hoa Thám",
+      "Lê Lợi",
+      "Quang Trung"
+    ],
+    "answer": "Quang Trung"
+  },
+  {
+    "question": "Chiến khu cách mạng nào được gọi là Đệ tứ chiến khu",
+    "selection": [
+      "Trần Hưng Đạo",
+      "Hoàng Hoa Thám",
+      "Lê Lợi",
+      "Quang Trung"
+    ],
+    "answer": "Trần Hưng Đạo"
+  },
+  {
+    "question": "Hội nghị quân sự cách mạng Bắc Kỳ chủ trương thành lập chiến khu cách mạng nào ở Nam Kỳ?",
+    "selection": [
+      "Trưng Trắc",
+      "Phan Đình Phùng",
+      "Nguyễn Tri Phương",
+      "Hoàng Hoa Thám"
+    ],
+    "answer": "Nguyễn Tri Phương"
+  },
+  {
+    "question": "Khẩu hiệu nào sau được nêu ra trong Cao trào kháng Nhật cứu nước?",
+    "selection": [
+      "Đánh đuổi phát xít Nhật- Pháp",
+      "Đánh đuổi phát xít Nhật",
+      "Giải quyết nạn đói",
+      "Chống nhổ lúa trồng đay"
+    ],
+    "answer": "Đánh đuổi phát xít Nhật- Pháp"
+  },
+  {
+    "question": "Cao trào kháng Nhật cứu nước đã diễn ra ở vùng rừng núi và trung du Bắc kỳ với hình thức nào là chủ yếu?",
+    "selection": [
+      "khởi nghĩa từng phần",
+      "vũ trang tuyên truyền",
+      "chiến tranh du kích cục bộ",
+      "đấu tranh báo chí"
+    ],
+    "answer": "chiến tranh du kích cục bộ"
+  },
+  {
+    "question": "Trong cao trào kháng Nhật cứu nước, phong trào \"Phá kho thóc của Nhật để giải quyết nạn đói\" đã diễn ra mạnh mẽ ở đâu?",
+    "selection": [
+      "Đồng bằng Nam Bộ",
+      "Đồng bằng Bắc Bộ và Bắc Trung Bộ",
+      "Đồng bằng Bắc Bộ",
+      "Đồng bằng Trung Bộ"
+    ],
+    "answer": "Đồng bằng Bắc Bộ và Bắc Trung Bộ"
+  },
+  {
+    "question": "Hình thức hoạt động chủ yếu ở các đô thị trong cao trào kháng Nhật cứu nước là gì?",
+    "selection": [
+      "vũ trang tuyên truyền",
+      "diệt ác trừ gian",
+      "vũ trang tuyên truyền và diệt ác trừ gian",
+      "đấu tranh báo chí và đấu tranh nghị trường"
+    ],
+    "answer": "vũ trang tuyên truyền và diệt ác trừ gian"
+  },
+  {
+    "question": "Hội nghị quân sự cách mạng Bắc kỳ họp vào thời gian nào?",
+    "selection": [
+      "tháng 3-1945",
+      "tháng 4-1945",
+      "tháng 5-1945",
+      "tháng 6-1945"
+    ],
+    "answer": "tháng 4-1945"
+  },
+  {
+    "question": "Hội nghị quân sự cách mạng Bắc kỳ do ai triệu tập?",
+    "selection": [
+      "Ban Thường vụ Trung ương Đảng",
+      "Tổng bộ Việt Minh",
+      "Ban chấp hành Trung ương Đảng",
+      "Xứ uỷ Bắc Kỳ"
+    ],
+    "answer": "Ban Thường vụ Trung ương Đảng"
+  },
+  {
+    "question": "Tổ chức nào triệu tập Đại hội quốc dân họp tại Tân Trào?",
+    "selection": [
+      "Ban Thường vụ Trung ương Đảng",
+      "Ban chấp hành Trung ương Đảng",
+      "Tổng bộ Việt Minh",
+      "Uỷ ban khỏi nghĩa"
+    ],
+    "answer": "Tổng bộ Việt Minh"
+  },
+  {
+    "question": "Hội nghị toàn quốc của Đảng Cộng sản Đông Dương họp ở Tân Trào trong thời gian nào?",
+    "selection": [
+      "15 - 19/8/1941",
+      "15 - 21/8/1941",
+      "13 - 15/8/1945",
+      "15 - 19/8/1945"
+    ],
+    "answer": "13 - 15/8/1945"
+  },
+  {
+    "question": "Uỷ ban dân tộc giải phóng do ai làm chủ tịch?",
+    "selection": [
+      "Hồ Chí Minh",
+      "Trường Chinh",
+      "Phạm Văn Đồng",
+      "Võ Nguyên Giáp"
+    ],
+    "answer": "Hồ Chí Minh"
+  },
+  {
+    "question": "Quốc dân Đại hội Tân trào họp tháng 8-1945 ở huyện nào?",
+    "selection": [
+      "Chiêm Hoá (Tuyên Quang)",
+      "Định hoá ( Thái nguyên)",
+      "Sơn Dương (Tuyên Quang)",
+      "Đại Từ (Thái Nguyên)"
+    ],
+    "answer": "Sơn Dương (Tuyên Quang)"
+  },
+  {
+    "question": "Quốc dân Đại hội Tân trào tháng 8-1945 đã không quyết định những nội dung nào dưới đây:",
+    "selection": [
+      "Quyết định Tổng khởi nghĩa",
+      "10 Chính sách của Việt Minh.",
+      "Quyết định thành lập Uỷ ban giải phóng ở Hà Nội.",
+      "Quyết định thành lập Uỷ ban giải phóng dân tộc, quy định Quốc kỳ, Quốc ca."
+    ],
+    "answer": "Quyết định thành lập Uỷ ban giải phóng ở Hà Nội."
+  },
+  {
+    "question": "Hội nghị nào đã quyết định phát động toàn dân nổi dậy tổng khởi nghĩa giành chính quyền?",
+    "selection": [
+      "Hội nghị Ban chấp hành Trung ương Đảng",
+      "Hội nghị Ban thường vụ Trung ương Đảng",
+      "Hội nghị toàn quốc của Đảng",
+      "Hội nghị Tổng bộ Việt Minh"
+    ],
+    "answer": "Hội nghị toàn quốc của Đảng"
+  },
+  {
+    "question": "Nhân dân ta phải tiến hành tổng khởi nghĩa giành chính quyền trước khi quân Đồng minh vào Đông Dương vì:",
+    "selection": [
+      "đó là lúc so sánh lực lượng có lợi nhất đối với cách mạng",
+      "đó là lúc kẻ thù cũ đã ngã gục nhưng kẻ thù mới chưa kịp đến",
+      "quân Đồng minh có thể dựng ra một chính quyền trái với ý chí và nguyện vọng của nhân dân ta",
+      "tất cả các lý do trên"
+    ],
+    "answer": "tất cả các lý do trên"
+  },
+  {
+    "question": "Tình hình đất nước ta sau cách mạng tháng Tám năm 1945 được ví như hình ảnh:",
+    "selection": [
+      "Nước sôi lửa nóng",
+      "Nước sôi lửa bỏng",
+      "Ngàn cân treo sợi tóc",
+      "Trứng nước"
+    ],
+    "answer": "Ngàn cân treo sợi tóc"
+  },
+  {
+    "question": "Những khó khăn, thách thức đối với Việt Nam sau cách mạng tháng Tám - 1945:",
+    "selection": [
+      "Các thế lực đế quốc, phản động bao vây, chống phá",
+      "Kinh tế kiệt quệ và nạn đói hoành hành",
+      "Hơn 90% dân số không biết chữ",
+      "Tất cả các phương án trên"
+    ],
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "question": "Những thuận lợi căn bản của đất nước sau cách mạng tháng Tám - 1945",
+    "selection": [
+      "Cách mạng thế giới phát triển mạnh mẽ",
+      "Hệ thống chính quyền cách mạng nhân dân được thiết lập",
+      "Nhân dân có quyết tâm bảo vệ chế độ mới",
+      "Tất cả các phương án trên"
+    ],
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "question": "Kẻ thù chính của cách mạng Việt Nam ngay sau Cách mạng 8- 1945?",
+    "selection": [
+      "Thực dân Pháp xâm lược.",
+      "Tưởng Giới Thạch và tay sai",
+      "Thực dân Anh xâm lược",
+      "Giặc đói và giặc dốt."
+    ],
+    "answer": "Thực dân Pháp xâm lược."
+  },
+  {
+    "question": "Sau ngày tuyên bố độc lập Chính phủ lâm thời đã xác định các nhiệm vụ cấp bách cần giải quyết:",
+    "selection": [
+      "Chống ngoại xâm",
+      "Chống ngoại xâm và nội phản",
+      "Diệt giặc đói, giặc dốt và giặc ngoại xâm",
+      "Cả ba phương án trên"
+    ],
+    "answer": "Diệt giặc đói, giặc dốt và giặc ngoại xâm"
+  },
+  {
+    "question": "Chỉ thị kháng chiến kiến quốc ra đời ngày, tháng, năm nào?",
+    "selection": [
+      "25/11/1945",
+      "26/11/1945",
+      "25/11/1946",
+      "26/11/1946"
+    ],
+    "answer": "25/11/1945"
+  },
+  {
+    "question": "Chỉ thị Kháng chiến kiến quốc của Trung ương Đảng ngày 25/11/1945, xác định nhiệm vụ nào là trung tâm, bao trùm nhất?",
+    "selection": [
+      "Củng cố, bảo vệ chính quyền cách mạng",
+      "Chống thực dân Pháp xâm lược",
+      "Cải thiện đời sống nhân dân",
+      "Cả A, B và C"
+    ],
+    "answer": "Củng cố, bảo vệ chính quyền cách mạng"
+  },
+  {
+    "question": "Chỉ thị kháng chiến, kiến quốc đã xác định khẩu hiệu cách mạng Việt Nam sau cách mạng tháng Tám -1945:",
+    "selection": [
+      "Dân tộc giải phóng",
+      "Thành lập chính quyền cách mạng",
+      "Dân tộc trên hết, Tổ quốc trên hết",
+      "Đoàn kết dân tộc và thế giới"
+    ],
+    "answer": "Dân tộc trên hết, Tổ quốc trên hết"
+  },
+  {
+    "question": "Chủ trương và sách lược của Trung ương Đảng trong việc đối phó với các lực lượng đế quốc sau cách mạng tháng Tám-1945:",
+    "selection": [
+      "Thêm bạn bớt thù",
+      "Hoa -Việt thân thiện",
+      "Độc lập về chính trị, nhân nhượng về kinh tế đối với Pháp",
+      "Cả ba phương án kể trên"
+    ],
+    "answer": "Cả ba phương án kể trên"
+  },
+  {
+    "question": "Những thành tựu căn bản của cách mạng Việt Nam trong việc xây dựng và củng cố chính quyền cách mạng sau 1945 :",
+    "selection": [
+      "Tổ chức tổng tuyển cử và ban hành Hiến pháp",
+      "Củng cố và mở rộng mặt trận Việt Minh",
+      "Xây dựng và phát triển các lực lượng vũ trang nhân dân",
+      "Tất cả các phương án trên"
+    ],
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "question": "Phong trào mà Đảng đã vận động nhân dân chống nạn mù chữ diễn ra sau cách mạng tháng Tám -1945",
+    "selection": [
+      "Xây dựng nếp sống văn hoá mới",
+      "Bình dân học vụ",
+      "Bài trừ các tệ nạn xã hội",
+      "Xoá bỏ văn hoá thực dân nô dịch phản động"
+    ],
+    "answer": "Bình dân học vụ"
+  },
+  {
+    "question": "Nhân dân Nam bộ đứng lên kháng chiến chống thực dân Pháp xâm lược bảo vệ chính quyền cách mạng vào ngày nào?",
+    "selection": [
+      "23-9-1945",
+      "23-11-1945",
+      "19-12-1946",
+      "10-12-1946"
+    ],
+    "answer": "23-9-1945"
+  },
+  {
+    "question": "Đảng ta đã phát động phong trào gì để ủng hộ nhân lực cho Nam Bộ kháng chiến chống Pháp từ ngày 23-9-1945",
+    "selection": [
+      "Vì miền Nam \"thành đồng Tổ quốc\"",
+      "Hướng về miền Nam ruột thịt",
+      "Nam tiến",
+      "Cả ba phương án trên"
+    ],
+    "answer": "Nam tiến"
+  },
+  {
+    "question": "Quốc hội đầu tiên của nước Việt Nam dân chủ cộng hoà được bầu khi nào?",
+    "selection": [
+      "4/1/1946",
+      "5/1/1946",
+      "6/1/1946",
+      "7/1/1946"
+    ],
+    "answer": "6/1/1946"
+  },
+  {
+    "question": "Kỳ họp Quốc hội thứ nhất thành lập chính phủ đầu tiên của nước Việt Nam dân chủ cộng hoà khi nào?",
+    "selection": [
+      "3/2/1946",
+      "2/3/1946",
+      "3/4/1946",
+      "3/3/1945"
+    ],
+    "answer": "2/3/1946"
+  },
+  {
+    "question": "Hiến pháp đầu tiên của nước Việt Nam dân chủ cộng hoà được thông qua vào ngày tháng năm nào?",
+    "selection": [
+      "9/11/1945",
+      "10/10/1946",
+      "9/11/1946",
+      "9/11/1947"
+    ],
+    "answer": "9/11/1946"
+  },
+  {
+    "question": "Hà Nội được xác định là thủ đô của nước Việt Nam dân chủ cộng hoà vào năm nào?",
+    "selection": [
+      "Năm 1945",
+      "Năm 1946",
+      "Năm 1954",
+      "Năm 1930"
+    ],
+    "answer": "Năm 1946"
+  },
+  {
+    "question": "Để gạt mũi nhọn tiến công kẻ thù, Đảng ta đã tuyên bố tự giải tán vào ngày tháng năm nào và lấy tên gọi là gì?",
+    "selection": [
+      "2.9.1945- Đảng Cộng sản Đông Dương",
+      "25-11-1945- Hội nghiên cứu Chủ nghĩa Mác-Lênin",
+      "3-2-1946- Đảng Lao động Việt Nam",
+      "11-11-1945- Hội nghiên cứu Chủ nghĩa Mác ở Đông Dương"
+    ],
+    "answer": "11-11-1945- Hội nghiên cứu Chủ nghĩa Mác ở Đông Dương"
+  },
+  {
+    "question": "Những sách lược nhân nhượng của Đảng ta với quân Tưởng và tay sai ở miền Bắc sau cách mạng tháng Tám",
+    "selection": [
+      "Cho Việt Quốc, Việt Cách tham gia Quốc hội và Chính phủ",
+      "Cung cấp lương thực thực phẩm cho quân đội Tưởng",
+      "Chấp nhận cho quân Tưởng tiêu tiền Quan kin, Quốc tệ",
+      "Cả ba phương án kể trên"
+    ],
+    "answer": "Cả ba phương án kể trên"
+  },
+  {
+    "question": "Để quân Tưởng và tay sai khỏi kiếm cớ sách nhiễu, Đảng chủ trương:",
+    "selection": [
+      "Dĩ hoà vi quý",
+      "Hoa Việt thân thiện",
+      "Biến xung đột lớn thành xung đột nhỏ, biến xung đột nhỏ thành không có xung đột",
+      "Hoa Việt thân thiện và dĩ hòa vi quý"
+    ],
+    "answer": "Biến xung đột lớn thành xung đột nhỏ, biến xung đột nhỏ thành không có xung đột"
+  },
+  {
+    "question": "Đảng ta đã lựa chọn giải pháp gì trong mối quan hệ với thực dân Pháp sau ngày Pháp và Tưởng ký hiệp ước Trùng Khánh (28-2-1946)",
+    "selection": [
+      "Thương lượng và hoà hoãn với Pháp",
+      "Kháng chiến chống thực dân Pháp",
+      "Nhân nhượng với quân đội Tưởng",
+      "Chống cả quân đội Tưởng và Pháp"
+    ],
+    "answer": "Thương lượng và hoà hoãn với Pháp"
+  },
+  {
+    "question": "Tại sao Đảng lại lựa chọn giải pháp thương lượng với Pháp",
+    "selection": [
+      "Chấm dứt cuộc kháng chiến ở Nam Bộ",
+      "Buộc quân Tưởng phải rút ngay về nước, tránh được tình trạng cùng một lúc phải đối phó với nhiều kẻ thù",
+      "Phối hợp với Pháp tấn công Tưởng.",
+      "Tất cả đáp án còn lại"
+    ],
+    "answer": "Tất cả đáp án còn lại"
+  },
+  {
+    "question": "Sự kiện mở đầu cho sự hoà hoãn giữa Việt Nam và Pháp",
+    "selection": [
+      "Pháp ngừng bắn ở miền Nam",
+      "Việt Nam với Pháp nhân nhượng quyền lợi ở miền Bắc",
+      "Ký kết hiệp định Sơ bộ 6-3-1946 giữa Việt Nam với Pháp",
+      "Pháp và Tưởng ký hiệp ước Trùng Khánh trao đổi quyền lợi cho nhau"
+    ],
+    "answer": "Ký kết hiệp định Sơ bộ 6-3-1946 giữa Việt Nam với Pháp"
+  },
+  {
+    "question": "Sau khi ký bản Hiệp định Sơ bộ, ngày 9-3-1946, Ban thường vụ Trung ương Đảng đã ra",
+    "selection": [
+      "Chỉ thị kháng chiến kiến quốc",
+      "Chỉ thị Hoà để tiến",
+      "Chỉ thị Toàn quốc kháng chiến",
+      "Tất cả các phương án còn lại"
+    ],
+    "answer": "Chỉ thị Hoà để tiến"
+  }
+]

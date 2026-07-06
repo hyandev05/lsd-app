@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Lực lượng tạo nên động lực cho cách mạng Việt Nam được nêu ra trong Chính cương Đảng Lao Động Việt Nam",
+        "selection": [
+            "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, địa chủ yêu nước (nhân dân)",
+            "Công nhân, nông dân, lao động trí thức",
+            "Công nhân, trí thức, tư sản dân tộc",
+            "Nhân dân, địa chủ, tư sản dân tộc"
+        ],
+        "answer": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, địa chủ yêu nước (nhân dân)"
+    },
+    {
+        "question": "Nền tảng của khối đại đoàn kết dân tộc được đảng Lao Động Việt Nam xác định tại Đại hội II",
+        "selection": [
+            "Công nhân và nông dân",
+            "Công nhân, nông dân và tư sản dân tộc",
+            "Công nhân, nông dân, lao động trí thức",
+            "Công nhân, nông dân và tiểu tư sản"
+        ],
+        "answer": "Công nhân, nông dân, lao động trí thức"
+    },
+    {
+        "question": "Các giai đoạn của cuộc cách mạng dân tộc dân chủ nhân dân ở Việt Nam được Đảng xác định trong Cương lĩnh thứ ba (1951)",
+        "selection": [
+            "Giai đoạn thứ nhất chủ yếu là hoàn thành giải phóng dân tộc",
+            "Giai đoạn thứ hai chủ yếu là xoá bỏ di tích phong kiến và nửa phong kiến, triệt để thực hiện người cày có ruộng",
+            "Giai đoạn thứ ba là chủ yếu xây dựng cơ sở cho CNXH",
+            "Cả ba phương án còn lại"
+        ],
+        "answer": "Cả ba phương án còn lại"
+    },
+    {
+        "question": "Điều lệ mới của Đảng Lao Động đã xác định Đảng đại diện cho quyền lợi của",
+        "selection": [
+            "Giai cấp công nhân Việt Nam.",
+            "Nhân dân Việt Nam.",
+            "Dân tộc Việt Nam.",
+            "Giai cấp công nhân và nhân dân lao động Việt Nam"
+        ],
+        "answer": "Giai cấp công nhân và nhân dân lao động Việt Nam"
+    },
+    {
+        "question": "Nền tảng tư tưởng và kim chỉ nam được Đảng ta xác định tại Đại hội II là:",
+        "selection": [
+            "Chủ nghĩa Mác Lênin",
+            "Tư tưởng Hồ Chí Minh",
+            "Truyền thống dân tộc",
+            "Cả ba phương án còn lại"
+        ],
+        "answer": "Truyền thống dân tộc"
+    },
+    {
+        "question": "Đai hội Đảng toàn quốc lần thứ hai đã bầu ai làm Tổng Bí thư đảng Lao Động Việt Nam?",
+        "selection": [
+            "Hồ Chí Minh",
+            "Trần Phú",
+            "Trường Chinh",
+            "Lê Duẩn"
+        ],
+        "answer": "Trường Chinh"
+    },
+    {
+        "question": "Hôm nay buổi sáng tháng ba Mừng ngày thắng lợi Đảng ta ra đời Hai Câu thơ trên nói đến sự kiện gì",
+        "selection": [
+            "Hội nghị thành lập Đảng",
+            "Đại hội toàn quốc thống nhất Việt Minh và Liên Việt",
+            "Đại hội Đảng toàn quốc lần II",
+            "Cả ba phương án đều sai"
+        ],
+        "answer": "Đại hội toàn quốc thống nhất Việt Minh và Liên Việt"
+    },
+    {
+        "question": "Trong tiến trình hình thành và phát triển từ năm 1930-1951, Đảng Cộng sản Việt Nam đã đề ra bao nhiêu Cương lĩnh chính trị và vào thời điểm nào",
+        "selection": [
+            "Cương lĩnh năm 1930",
+            "2 cương lĩnh vào năm 1930 và 1945",
+            "3 cương lĩnh vào năm 1930, 1945, 1951",
+            "3 cương lĩnh vào năm 1930, 1951 (năm 1930 ra đời 2 cương lĩnh)"
+        ],
+        "answer": "3 cương lĩnh vào năm 1930, 1951 (năm 1930 ra đời 2 cương lĩnh)"
+    },
+    {
+        "question": "Trong cương lĩnh thứ ba (2-1951), Đảng ta đã khẳng định nhận thức của mình về con đường cách mạng Việt Nam. Đó là:",
+        "selection": [
+            "Con đường cách mạng vô sản",
+            "Con đường cách mạng tư sản dân quyền và thổ địa cách mạng",
+            "Con đường cách mạng tư sản dân quyền",
+            "Con đường cách mạng dân tộc, dân chủ, nhân dân"
+        ],
+        "answer": "Con đường cách mạng dân tộc, dân chủ, nhân dân"
+    },
+    {
+        "question": "Đến năm 1951, Đảng ta đã tiến hành bao nhiêu kỳ Đại hội và trong khoảng thời gian nào?",
+        "selection": [
+            "1 kỳ Đại hội vào năm 1930",
+            "2 kỳ Đại hội vào tháng 3-1935 và tháng 2-1951",
+            "3 kỳ Đại hội vào tháng 2-1930, 3-1935, 2-1951",
+            "4 kỳ Đại hội và tháng 2-1930, 10-1930, 3-1935, 2-1951"
+        ],
+        "answer": "2 kỳ Đại hội vào tháng 3-1935 và tháng 2-1951"
+    },
+    {
+        "question": "Trong Cương lĩnh thứ 3 được thông qua tại Đại Hội Đảng toàn quốc lần thứ hai (2-1951), Đảng ta đã phát triển và hoàn thiện nhận thức về lực lượng cách mạng không chỉ là công nhân và nông dân mà bao gồm nhiều lực lượng dân tộc khác. Các lực lượng đó được gọi chung là:",
+        "selection": [
+            "Dân tộc",
+            "Nhân dân",
+            "Dân chủ",
+            "Vô Sản"
+        ],
+        "answer": "Nhân dân"
+    },
+    {
+        "question": "Đại hội nào của Đảng đã quyết định tách 3 Đảng bộ Đảng Cộng sản ở 3 nước Việt Nam, Lào và Cam pu chia?",
+        "selection": [
+            "Đại hội I",
+            "Đại hội II",
+            "Đại hội III",
+            "Đại hội IV"
+        ],
+        "answer": "Đại hội II"
+    },
+    {
+        "question": "Khối liên minh nhân dân 3 nước Việt Nam - Lào và Campuchia được thành lập khi nào?",
+        "selection": [
+            "2/1951",
+            "3/1951",
+            "4/1951",
+            "5/1951"
+        ],
+        "answer": "3/1951"
+    },
+    {
+        "question": "Đại hội Chiến sĩ thi đua và Cán bộ gương mẫu toàn quốc lần thứ nhất họp năm nào?",
+        "selection": [
+            "1950",
+            "1951",
+            "1952",
+            "1953"
+        ],
+        "answer": "1952"
+    },
+    {
+        "question": "Đại đoàn quân chủ lực đầu tiên của quân đội nhân dân Việt Nam (đại đoàn 308) được thành lập khi nào?",
+        "selection": [
+            "Năm 1945",
+            "Năm 1947",
+            "Năm 1949",
+            "Năm 1950"
+        ],
+        "answer": "Năm 1949"
+    },
+    {
+        "question": "Đến cuối năm 1952, với sự phát triển mạnh mẽ, lực lượng vũ trang nhân dân Việt Nam đã hình thành bao nhiêu đại đoàn quân chủ lực",
+        "selection": [
+            "2 đại đoàn bộ binh",
+            "5 đại đoàn bộ binh và công binh",
+            "6 đại đoàn bộ binh và 1 đại đoàn công binh-pháo binh",
+            "7 đại đoàn bộ binh"
+        ],
+        "answer": "6 đại đoàn bộ binh và 1 đại đoàn công binh-pháo binh"
+    },
+    {
+        "question": "Đại đoàn quân tiên phong là đại đoàn nào?",
+        "selection": [
+            "Đại đoàn 308",
+            "Đại đoàn 304",
+            "Đại đoàn 316",
+            "Đại đoàn 325"
+        ],
+        "answer": "Đại đoàn 308"
+    },
+    {
+        "question": "3 vùng tự do là hậu phương chủ yếu trong kháng chiến chống Pháp của cách mạng Việt Nam :",
+        "selection": [
+            "Việt Bắc, Thanh- Nghệ- Tĩnh, Liên khu V",
+            "Việt Bắc, Thanh- Nghệ -Tĩnh,",
+            "Liên khu V, Nam Bộ, Thừa Thiên Huế",
+            "Liên khu III, Liên khu IV, Liên khu V"
+        ],
+        "answer": "Việt Bắc, Thanh- Nghệ- Tĩnh, Liên khu V"
+    },
+    {
+        "question": "Trong giai đoạn cuối cuộc kháng chiến chống Pháp, nhằm thực hiện nhiệm vụ dân chủ, Đảng ta đã chủ trương thực hiện một số giải pháp. Phương án nào sau đây không phải chủ trương của Đảng ta lúc đó:",
+        "selection": [
+            "Cải cách ruộng đất",
+            "Triệt để giảm tô, giảm tức",
+            "Thí điểm và cải cách ruộng đất",
+            "Triệt để giảm tô, giảm tức, thí điểm và cải cách ruộng đất"
+        ],
+        "answer": "Triệt để giảm tô, giảm tức, thí điểm và cải cách ruộng đất"
+    },
+    {
+        "question": "Nhằm đẩy mạnh thực hiện khẩu hiệu \"người cày có ruộng\", tháng 11-1953, Hội Nghị BCH TW lần thứ V đã thông qua",
+        "selection": [
+            "Cương lĩnh ruộng đất",
+            "Chỉ thị giảm tô, giảm tức",
+            "Chính sách cải cách ruộng đất",
+            "Tất cả phương án còn lại"
+        ],
+        "answer": "Cương lĩnh ruộng đất"
+    },
+    {
+        "question": "ý nghĩa của quá trình thực hiện khẩu hiệu \"người cày có ruộng\" đối với cuộc kháng chiến chống Pháp",
+        "selection": [
+            "Huy động mạnh mẽ nguồn lực con người vật chất cho kháng chiến",
+            "Thúc đẩy mạnh mẽ tinh thần chiến đấu của quân và dân ta",
+            "Chi viện trực tiếp cho chiến dịch Điện Biên Phủ",
+            "Tất cả các phương án còn lại"
+        ],
+        "answer": "Tất cả các phương án còn lại"
+    },
+    {
+        "question": "Một số hạn chế trong chính sách ruộng đất của Đảng ta từ 1953-1954",
+        "selection": [
+            "Không thấy hết được thực tiễn chuyển biến mới của sở hữu ruộng đất trong nông thôn Việt Nam trước 1953",
+            "Không kế thừa kinh nghiệm của quá trình cải cách từng phần",
+            "Học tập giáo điều kinh nghiệm cải cách ruộng đất của nước ngoài",
+            "Tất cả các phương án còn lại"
+        ],
+        "answer": "Tất cả các phương án còn lại"
+    },
+    {
+        "question": "Từ những nam 1950 trở đi, đế quốc Mỹ đã can thiệp ngày càng sâu vào cuộc chiến tranh ở Đông Dương. Theo đó đến năm 1954, viện trợ của Mỹ cho Pháp đã tăng bao nhiêu % trong ngân sách chiến tranh ở Đông Dương:",
+        "selection": [
+            "50%",
+            "60%",
+            "73%",
+            "80%"
+        ],
+        "answer": "80%"
+    },
+    {
+        "question": "Với thế chủ động trên chiến trường, từ cuối 1950 đến đầu 1953 quân ta đã tổ chức nhiều chiến dịch tiêu diệt, tiêu hao sinh lực địch. Đó là:",
+        "selection": [
+            "Chiến dịch Trung Du, chiến dịch Đường 18, chiến dịch Hà Nam Ninh X",
+            "Chiến dịch Hoà Bình, chiến dịch Tây Bắc, chiến dịch Thượng Lào",
+            "Chiến dịch Trung Lào, chiến dịch Tây Nguyên, chiến dịch Điện Biên Phủ",
+            " Chiến dịch Trung Du, chiến dịch Đường 18, chiến dịch Hà Nam Ninh X, chiến dịch Hòa Bình, chiến dịch Tây Bắc, chiến dịch Thượng Lào"
+        ],
+        "answer": " Chiến dịch Trung Du, chiến dịch Đường 18, chiến dịch Hà Nam Ninh X, chiến dịch Hòa Bình, chiến dịch Tây Bắc, chiến dịch Thượng Lào"
+    },
+    {
+        "question": "Đầu năm 1953, nhằm cứu vãn tình thế ngày càng sa lầy và tìm kiếm giải pháp chính trị có \"danh dự\", Pháp và Mỹ đã đưa một viên tướng Pháp sang làm Tổng chỉ huy quân đội Pháp ở Đông Dương và lập kế hoạch quân sự mang tên:",
+        "selection": [
+            "Rơve",
+            "Nava",
+            "Pháp - Mỹ",
+            "Cả 3 phương án đều sai"
+        ],
+        "answer": "Nava"
+    },
+    {
+        "question": "Điểm mạnh của kế hoạch Nava của Pháp Mỹ trên chiến trường Đông Dương",
+        "selection": [
+            "Tập trung một đội quân cơ động mạnh nhất và phương tiện chiến tranh nhiều nhất",
+            "Phân tán và giải đều lực lượng ra khắp các chiến trường",
+            "Tập trung tối đa lực lượng chủ lực ở đồng bằng Bắc Bộ",
+            "Tất cả các phương án còn lại"
+        ],
+        "answer": "Tập trung một đội quân cơ động mạnh nhất và phương tiện chiến tranh nhiều nhất"
+    },
+    {
+        "question": "Trên cơ sở nắm bắt những chuyển biến của tình hình, BCH TW đã đề ra chủ trương quân sự trong Đông Xuân 1953-1954:",
+        "selection": [
+            "Tăng cường chiến tranh du kích ở vùng sau lưng địch nhằm phân tán chủ lực địch",
+            "Quân chủ lực của ta tập trung tiêu diệt sinh lực địch ở những vùng chiến lược quan trọng mà địch tương đối yếu, tranh thủ tiêu diệt địch ở những hướng địch đánh ra",
+            "Thực hiện phương châm \"tích cực, chủ động, cơ động linh hoạt\"",
+            "Tất cả các phương án còn lại"
+        ],
+        "answer": "Tất cả các phương án còn lại"
+    },
+    {
+        "question": "Trong chiến cuộc Đông Xuân 1953-1954, những hướng tiến công chiến lược của quân và dân ta:",
+        "selection": [
+            "Tiến công ở Lai Châu, Trung Lào",
+            "Tiến công ở Hạ Lào và Đông Campuchia",
+            "Tiến công ở Tây Nguyên",
+            "Cả ba phương án còn lại"
+        ],
+        "answer": "Cả ba phương án còn lại"
+    },
+    {
+        "question": "Ngày 20-11-1953, giữa lúc quân ta tiến quân lên Tây Bắc, Nava vội vàng phân tán lực lượng cho quân nhảy dù, tập trung một khối chủ lực mạnh ở",
+        "selection": [
+            "Lai Châu",
+            "Điện Biên Phủ",
+            "Thượng Lào",
+            "Hạ Lào và Đông Bắc Campuchia"
+        ],
+        "answer": "Điện Biên Phủ"
+    },
+    {
+        "question": "Nava đã đưa tổng số binh lực lên Điện Biên Phủ lúc cao nhất là 16.200 quân; bố trí thành 3 phân khu, 49 cứ điểm. Mục đích là nhằm biến Điện Biên Phủ thành",
+        "selection": [
+            "Một tập đoàn cứ điểm mạnh nhất Đông Dương",
+            "Một nơi tập trung đông nhất khối quân chủ lực",
+            "Căn cứ quân sự phòng thủ Đông Dương",
+            "Tất cả các phương án còn lại"
+        ],
+        "answer": "Một tập đoàn cứ điểm mạnh nhất Đông Dương"
+    },
+    {
+        "question": "Bộ Chính trị đã thông qua phương án mở chiến dịch Điện Biên Phủ vào thời gian nào:",
+        "selection": [
+            "20-11-1953",
+            "3-12-1953",
+            "6-12-1953",
+            "25-1-1954"
+        ],
+        "answer": "6-12-1953"
+    },
+    {
+        "question": "Ngay sau khi quyết định chọn chiến dịch Điện Biên Phủ là trận quyết chiến, chiến lược, ban đầu TW Đảng đã xác định phương châm:",
+        "selection": [
+            "Đánh chắc, tiến chắc",
+            "Đánh nhanh, thắng nhanh",
+            "Chắc thắng mới đánh, không chắc thắng không đánh",
+            "Tất cả các phướng đều sai"
+        ],
+        "answer": "Đánh nhanh, thắng nhanh"
+    },
+    {
+        "question": "Ai đã được cử làm Tư lệnh kiêm Bí thư Đảng uỷ chiến dịch Điện Biên Phủ",
+        "selection": [
+            "Hoàng Văn Thái",
+            "Văn Tiến Dũng",
+            "Phạm Văn Đồng",
+            "Võ Nguyên Giáp"
+        ],
+        "answer": "Võ Nguyên Giáp"
+    },
+    {
+        "question": "Trên cơ sở theo dõi tình hình địch ở Điện Biên Phủ, Đại tướng Võ Nguyên Giáp đã quyết định thay đổi để thực hiện phương châm:",
+        "selection": [
+            "Đánh nhanh, thắng nhanh",
+            "Chắc thắng mới đánh, không chắc thắng không đánh",
+            "Đánh chắc, tiến chắc",
+            "Cơ động, chủ động, linh hoạt"
+        ],
+        "answer": "Đánh chắc, tiến chắc"
+    },
+    {
+        "question": "Chiến dịch Điện Biên Phủ đã diễn ra trong ba đợt và trong khoảng thời gian nào:",
+        "selection": [
+            "6-12-1953 - 25-1-1954",
+            "25-11-1953 - 15-3-1954",
+            "15-3-1954 - 21-7-1954",
+            "13-3-1954 - 7-5-1954"
+        ],
+        "answer": "13-3-1954 - 7-5-1954"
+    },
+    {
+        "question": "Chiến dịch lịch sử Điện Biên Phủ diễn ra trong bao nhiêu ngày?",
+        "selection": [
+            "54",
+            "55",
+            "56",
+            "59"
+        ],
+        "answer": "56"
+    },
+    {
+        "question": "Lá cờ \"Quyết chiến, quyết thắng\" trong chiến dịch Điện Biên Phủ được trao cho đơn vị nào?",
+        "selection": [
+            "Đại đoàn 308",
+            "Đại đoàn 312",
+            "Đại đoàn 316",
+            "Đại đoàn 320"
+        ],
+        "answer": "Đại đoàn 312"
+    },
+    {
+        "question": "Kết thúc chiến dịch Điện Biên Phủ, quân và dân ta giành nhiều thắng lợi to lớn. Kết quả đã:",
+        "selection": [
+            "Tiêu diệt và bắt sống 16.200 tên địch, trong đó có viên tổng chỉ huy Đờ Catxtơri",
+            "Thu toàn bộ vũ khí, cơ sở vật chất của địch ở Điện Biên Phủ",
+            "Thủ tiêu toàn bộ vũ khí, phương tiện chiến tranh và bắt sống toàn bộ quân địch và thu toàn bộ vũ khí, cơ sở vật chất của địch ở Điện Biên Phủ",
+            " Tiêu diệt và bắt sống 16.200 tên địch, trong đó có viên tổng chỉ huy Đờ Catxtơri và thu toàn bộ vũ khí, cơ sở vật chất của địch ở Điện Biên Phủ"
+        ],
+        "answer": " Tiêu diệt và bắt sống 16.200 tên địch, trong đó có viên tổng chỉ huy Đờ Catxtơri và thu toàn bộ vũ khí, cơ sở vật chất của địch ở Điện Biên Phủ"
+    },
+    {
+        "question": "Đối với cách mạng Việt Nam, chiến thắng Điện Biên Phủ đã có ý nghĩa hết sức to lớn. Đó là:",
+        "selection": [
+            "Thắng lợi lớn nhất của cuộc đọ sức toàn diện và quyết liệt của quân dân Việt Nam với thực dân Pháp",
+            "Chiến công đi vào lịch sử dân tộc như một Bạch Đằng, một Chi Lăng hay một Đống Đa trong thế kỷ XX",
+            "Thắng lợi này đã giải phóng hoàn toàn miền Bắc, chấm dứt gần 1 thế kỷ ách thống trị của thực dân Pháp, đưa cách mạng Việt Nam chuyển sang xây dựng XHCN và giành độc lập, thống nhất hoàn toàn",
+            "Tất cả các phương án còn lại"
+        ],
+        "answer": "Tất cả các phương án còn lại"
+    },
+    {
+        "question": "Đối với cách mạng thế giới, thắng lợi của quân và dân ta trong kháng chiến chống Pháp và can thiệp Mỹ, đặc biệt là chiến thắng Điện Biên Phủ đã:",
+        "selection": [
+            "Góp phần làm sụp đổ hoàn toàn hệ thống thực dân kiểu cũ trên thế giới",
+            "Cổ vũ mạnh mẽ nhân dân các dân tộc bị áp bức trên thế giới vùng lên đấu tranh giành độc lập",
+            "Lần đầu tiên trong lịch sử một nước thuộc địa nhỏ yếu đã đánh thắng một nước thực dân hùng mạnh, đó là thắng lợi của các lực lượng hoà bình, dân chủ và XHCN trên toàn thế giới",
+            "Cả ba phương án còn lại"
+        ],
+        "answer": "Cả ba phương án còn lại"
+    }
+]
