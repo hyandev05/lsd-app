@@ -402,11 +402,10 @@ export default function User() {
                                                 <button
                                                     key={q.shuffledId}
                                                     onClick={() => focusQuestion(idx)}
-                                                    className={`w-full aspect-square rounded-[12px] flex items-center justify-center text-[12px] font-bold transition-all ${
-                                                        hasAnswer
+                                                    className={`w-full aspect-square rounded-[12px] flex items-center justify-center text-[12px] font-bold transition-all ${hasAnswer
                                                             ? 'bg-[#CFF23A]/20 text-[#141414] border border-[#CFF23A]/30'
                                                             : 'bg-[#E4E4E8] text-[#8B8B92] hover:bg-[#DADADE]'
-                                                    }`}
+                                                        }`}
                                                 >
                                                     {idx + 1}
                                                 </button>
