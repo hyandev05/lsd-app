@@ -52,7 +52,6 @@ export default function User() {
     const [showWrongOnly, setShowWrongOnly] = useState(false)
     const [showNavigator, setShowNavigator] = useState(false)
     const quizRef = useRef<HTMLDivElement>(null)
-    const questionRefs = useRef<(HTMLDivElement | null)[]>([])
 
     const startQuiz = useCallback(() => {
         const raw = ALL_DATA[activeTab]

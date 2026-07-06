@@ -16,11 +16,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true,
-    "baseUrl": ".",
-    "paths": {
-      "@asset/*": ["src/asset/*"]
-    }
+    "noUncheckedSideEffectImports": true
   },
   "include": ["src"]
 }
