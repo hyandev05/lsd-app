@@ -3,3 +3,6 @@ dist/
 .DS_Store
 *.log
 .vite/
+_commit.sh
+dashboard-vibe-design-system.md
+ref/
